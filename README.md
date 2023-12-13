@@ -1,18 +1,17 @@
-DevOpsReads
-About the Repository
+# About the Repository
 
-Welcome to DevOpsReads, a personal repository where I share summaries, notes, and key insights from a selection of books in the field of DevOps, Cloud Engineering, Platform Engineering, and Site Reliability Engineering (SRE). This repository is intended to serve as a resource for professionals, students, and enthusiasts, offering accessible takeaways from essential literature in these areas.
+Welcome to DevOpsReads, a repository to share summaries, notes, and key insights from a selection of books in the field of DevOps, Cloud Engineering, Platform Engineering, and Site Reliability Engineering (SRE). This repository is intended to serve as a resource for professionals, students, and enthusiasts, offering accessible takeaways from essential literature in these areas.
 
 # Contents
 
-    - Summaries of key DevOps-related books.
-    - Personal insights and interpretations of the read material.
-    - Notes on various topics such as CI/CD, cloud infrastructure, automation, monitoring, etc.
+    Summaries of key DevOps-related books.
+    Personal insights and interpretations of the read material.
+    Notes on various topics such as CI/CD, cloud infrastructure, automation, monitoring, etc.
 
 # How to Use This Repository
 
-    - Browse through summaries: Each book has its own folder containing the summary and notes.
-    - Contribute: Suggestions and improvements are welcome. Please see the contribution guidelines below.
+    Browse through summaries: Each book has its own folder containing the summary and notes.
+    Contribute: Suggestions and improvements are welcome. Please see the contribution guidelines below.
 
 # Contribution Guidelines
 
